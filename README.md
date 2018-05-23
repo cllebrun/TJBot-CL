@@ -1,4 +1,4 @@
-<img src="./img/tjbotcl.jpeg" width="25%"/>
+<img src="./img/tjbotcl.jpeg"/>
 
 
 # TJBOT: Intro
